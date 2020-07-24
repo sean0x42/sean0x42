@@ -1,14 +1,32 @@
-### Hi there 👋
+<div style="float: right;">
 
-<!--
-**sean0x42/sean0x42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Illustration](./miroodles.png)
 
-Here are some ideas to get you started:
--->
-🔭 I’m currently working on some websites for [nib](https://www.nib.com.au/). I'm also actively brainstorming ideas for my next big project!
+</div>
 
-🌱 I’m currently learning Rust, and game development with [Amethyst](https://amethyst.rs/).
+### Hi, I'm Sean 👋
 
-👯 I’m looking to collaborate on React, Rails, JavaScript/Typescript or Rust projects.
+Nice to meet you! I'm a designer/developer in Newcastle, Australia.
 
-📫 You can send me a message at <hello@seanbailey.dev>, or DM me on Twitter [@sean0x42](https://twitter.com/sean0x42).
+You can see more of my work at [seanbailey.dev](https://www.seanbailey.dev).
+
+---
+
+#### 🔭 What I'm Working On
+
+- Full time software development at [nib](https://www.nib.com.au/).
+- Actively brainstorming ideas for my next big project!
+
+#### 🌱 Some Things I'm Learning
+
+- Rust! It's a fascinating newish programming language.
+- Serverless ⚡
+
+#### 📫 Get In Touch
+
+I have a contact form at [seanbailey.dev/contact][contact], or you can directly
+email me at <hello@seanbailey.dev>.  
+I'm also on Twitter [@sean0x42][twitter].
+
+[contact]: https://www.seanbailey.dev/contact
+[twitter]: https://twitter.com/sean0x42
