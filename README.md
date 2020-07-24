@@ -28,5 +28,10 @@ I have a contact form at [seanbailey.dev/contact][contact], or you can directly
 email me at <hello@seanbailey.dev>.  
 I'm also on Twitter [@sean0x42][twitter].
 
+---
+
+[![Visits
+Badge](https://badges.pufler.dev/visits/sean0x42/sean0x42)](https://badges.pufler.dev)
+
 [contact]: https://www.seanbailey.dev/contact
 [twitter]: https://twitter.com/sean0x42
