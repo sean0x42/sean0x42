@@ -1,8 +1,4 @@
-<div style="float: right;">
-
-![Illustration](https://raw.githubusercontent.com/sean0x42/sean0x42/master/miroodles.png)
-
-</div>
+<img src="https://raw.githubusercontent.com/sean0x42/sean0x42/master/miroodles.png" alt="Illustration" align="right" />
 
 ### Hi, I'm Sean 👋
 
