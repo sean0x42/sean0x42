@@ -1,6 +1,6 @@
 <div style="float: right;">
 
-![Illustration](./miroodles.png)
+![Illustration](https://raw.githubusercontent.com/sean0x42/sean0x42/master/miroodles.png)
 
 </div>
 
