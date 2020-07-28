@@ -29,5 +29,7 @@ I'm also on Twitter [@sean0x42][twitter].
 [![Visits
 Badge](https://badges.pufler.dev/visits/sean0x42/sean0x42)](https://badges.pufler.dev)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sean0x42&count_private=true&show_icons=true)
+
 [contact]: https://www.seanbailey.dev/contact
 [twitter]: https://twitter.com/sean0x42
