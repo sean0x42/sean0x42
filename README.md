@@ -12,6 +12,7 @@ You can see more of my work at [seanbailey.dev](https://www.seanbailey.dev).
 
 - Full time software development at [nib](https://www.nib.com.au/).
 - Actively brainstorming ideas for my next big project!
+- Blogging away
 
 #### 🌱 Some Things I'm Learning
 
@@ -23,13 +24,6 @@ You can see more of my work at [seanbailey.dev](https://www.seanbailey.dev).
 I have a contact form at [seanbailey.dev/contact][contact], or you can directly
 email me at <hello@seanbailey.dev>.  
 I'm also on Twitter [@sean0x42][twitter].
-
----
-
-[![Visits
-Badge](https://badges.pufler.dev/visits/sean0x42/sean0x42)](https://badges.pufler.dev)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sean0x42&count_private=true&show_icons=true)
 
 [contact]: https://www.seanbailey.dev/contact
 [twitter]: https://twitter.com/sean0x42
