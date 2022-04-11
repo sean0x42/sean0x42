@@ -1,5 +1,14 @@
-### Hi, I'm Sean 👋
+<div align="center">
 
-Nice to meet you! I'm a designer/developer in Newcastle, Australia.
+## Hey, I'm Sean 👋
 
-You can see more of my work at [seanbailey.dev](https://www.seanbailey.dev)
+</div>
+
+Nice to meet you! I'm a software developer and designer in Newcastle, Australia. Presently at [nib](https://www.nib.com.au).
+
+#### Links
+
+- 🐦[Twitter @sean0x42](https://twitter.com/sean0x42)  
+- 📘 [LinkedIn @sean0x42](https://www.linkedin.com/in/sean0x42/)  
+- :octocat: [GitHub @sean0x42](https://github.com/sean0x42)
+- 🌐 https://www.seanbailey.dev
